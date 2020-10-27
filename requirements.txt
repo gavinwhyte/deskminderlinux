@@ -20,4 +20,4 @@ pytest
 bert-tensorflow
 spacy>=2.2
 fabric==2.5.0
-cryptography==2.8
+cryptography==3.2
