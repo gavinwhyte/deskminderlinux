@@ -13,7 +13,7 @@ matplotlib>=3.0
 seaborn>=0.7
 uvicorn
 fastapi
-pydantic==0.32.2
+pydantic==1.6.2
 python-multipart
 scikit-image==0.14.2
 pytest
